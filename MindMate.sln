@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.25618.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30615.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindMate", "MindMate\MindMate.csproj", "{5940EE6D-1EF0-4745-9983-BA0F9B9FD5CD}"
 EndProject
@@ -79,7 +79,6 @@ Global
 		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Debug|x86.Build.0 = Debug|Any CPU
 		{73A1FB99-58AC-4C8D-ACDD-523FEB02E99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -97,5 +96,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55CDD319-6745-4D52-8812-3F36A2AA0E96}
 	EndGlobalSection
 EndGlobal
